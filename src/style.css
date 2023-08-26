@@ -1,0 +1,41 @@
+/* Style for the container */
+#container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Style for the media element */
+audio,
+video {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+/* Style for the volume slider */
+input[type="range"] {
+    width: 100%;
+}
+
+/* Style for the progress bar */
+progress {
+    width: 100%;
+}
+
+/* Style for buttons */
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Style for dropdown */
+select {
+    width: 100%;
+    padding: 5px;
+}
+
+/* Optional: Add more styling as needed */
